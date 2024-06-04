@@ -3,13 +3,13 @@
 ## Website UI
 ![Website UI](test_images/Screenshot%202024-06-04%20013818.png)
 
-# Prediction of a footballer based on picture using Machine learning.
+# Classificatiom of a footballer based on the picture using Machine learning.
 
 - The development of the model is thoroughly documented in the notebook [[file](Model.ipynb "file")].
 - The [server](server "server"), util, and [web page](UI "web page") files document are in this read's relevant section.md file.
 
 #### Data procurement
-- Data was procured using Fatkum batch image download extension [Link.](https://fatkun-batch-download-image.en.softonic.com/chrome/extension "Link.")
+- Data was procured using the Fatkum batch image download extension [Link.](https://fatkun-batch-download-image.en.softonic.com/chrome/extension "Link.")
 
 #### Data pre-processing, feature engineering, and model training.
 - All of this could be found in the notebook.
