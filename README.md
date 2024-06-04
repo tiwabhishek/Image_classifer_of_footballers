@@ -1,8 +1,7 @@
 [TOC]
 
-
 ## Website UI
-![Website UI](test_images/Screenshot 2024-06-04 013818.png)
+![Website UI](test_images/Screenshot%202024-06-04%20013818.png)
 
 # Prediction of a footballer based on picture using Machine learning.
 
@@ -15,11 +14,10 @@
 #### Data pre-processing, feature engineering, and model training.
 - All of this could be found in the notebook.
 
-#### Sever and port hosting.
+#### Server and port hosting.
 The server was created using the flask module. 
 
 #### Website.
-CSS, HTML, and Java script files are present [UI](UI "client") folder.
-In the future, this website might be hosted on a server but it will be a better vison with much more data.
-If model fails to recognize any face or set of eyes it looks like this.
-[![Website UI] (Website UI)](test_images/Screenshot 2024-06-04 013926.png)
+CSS, HTML, and JavaScript files are present in the [UI](UI "client") folder. In the future, this website might be hosted on a server but it will be a better version with much more data.
+If the model fails to recognize any face or set of eyes, it looks like this:
+![Website UI](test_images/Screenshot%202024-06-04%20013926.png)
