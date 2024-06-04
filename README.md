@@ -2,7 +2,8 @@
 
 
 ## Website UI
-![Website UI] (test_images/Screenshot 2024-06-04 013818.png)
+![Website UI](test_images/Screenshot 2024-06-04 013818.png)
+
 # Prediction of a footballer based on picture using Machine learning.
 
 - The development of the model is thoroughly documented in the notebook [[file](Model.ipynb "file")].
