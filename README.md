@@ -4,6 +4,7 @@
 ![Website UI](test_images/Screenshot%202024-06-04%20013818.png)
 
 # Classificatiom of a footballer based on the picture using Machine learning.
+### A fully functional Website that Classifies footballers (Classifier: SVM) using photo.
 
 - The development of the model is thoroughly documented in the notebook [[file](Model.ipynb "file")].
 - The [server](server "server"), util, and [web page](UI "web page") files document are in this read's relevant section.md file.
